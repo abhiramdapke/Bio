@@ -17,9 +17,12 @@ I am a Robotics Engineer at Deuce Drones. I work mostly on MAVROS and UAV Autopi
 - 😄 
 - ⚡ 
 
+#### Profile Visits
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=abhiramdapke.Independent-projects)
+ 
+ 
 #### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
 
 
 #### Bizness
@@ -27,27 +30,9 @@ I am a Robotics Engineer at Deuce Drones. I work mostly on MAVROS and UAV Autopi
 - :email: abhiramdapke162@gmail.com
 
 
-#### Profile Visits 
+### Github Stats
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
+[![Abhiram's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiramdapke)](https://github.com/abhiramdapke/github-readme-stats)
 
 
 #### Coding Stats
-
-
-
-#### Github Stats
-
-
-
-</details>
-
-
