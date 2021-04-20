@@ -1,6 +1,6 @@
 ## Hey, I'm Abhi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a Robotics Engineer. I work mostly on MAVROS and UAV Autopilots. In the past, I have worked on Data Structures, Algorithms, Motion Planning and perception of autonomous systems.
+I am a Robotics Engineer. I work mostly on MAVROS and UAV Autopilots. In the past, I have worked on Advanced Data Structures, Algorithms, Motion Planning and perception of autonomous systems.
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abhiramdapke/Bio"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhiramdapke/Independent-projects?style=social">  
 
