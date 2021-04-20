@@ -32,14 +32,12 @@ I am a Robotics Engineer. I work mostly on MAVROS and UAV Autopilots. In the pas
 
 <img align="left" width="100" height="70" src="https://i.ytimg.com/vi/kM9ASKAni_s/maxresdefault.jpg"></img>
 
-<img align="left" width="100" height="70" src="https://shop.ardupilot.org/image/cache/catalog/Stickers/ArduPilot-DIESticker-500x500.jpg"></img>        
-
+<img align="left" width="100" height="70" src="https://shop.ardupilot.org/image/cache/catalog/Stickers/ArduPilot-DIESticker-500x500.jpg"></img>             
   
-<br />
-      
-        
-        
-#### Biz
+    
+  
+
+#### Bizness
 - :paperclip: [My Resume/CV](https://github.com/abhiramdapke/Bio/blob/main/Resume_AbhiramDapke_RoboticsEngineer.pdf)
 - :email: abhiramdapke162@gmail.com
 
