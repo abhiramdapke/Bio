@@ -10,7 +10,7 @@ I am a Robotics Engineer. I work mostly on MAVROS and UAV Autopilots. In the pas
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Deuce Drones
+- 🔭 I’m currently working @ Deuce Drone LLC.
 - 🤔 I'm looking for MAVROS developers to collaborate with.
 - 📫 How to reach me: abhiramdapke162@gmail.com.
 - 😄 Hobbies: Capital Markets, Body Building, Chess
